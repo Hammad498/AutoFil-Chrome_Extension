@@ -200,10 +200,13 @@ Chosen for simplicity and reliability in a constrained assessment environment
 
 5. Estimated Time Spent
 Task	Time
-Requirement analysis & ATS research	~1.5 hours
+Requirement analysis	~0.5 hours
 Extension setup (Manifest V3)	~0.5 hours
 Autofill logic implementation	~2.5 hours
-Debugging Eightfold-specific issues	~2 hours
+Debugging Eightfold-specific issues	~1 hours
 Testing & logging improvements	~1 hour
 Documentation	~0.5 hours
-Total	~8 hours
+Total	~7 hours
+
+
+/////////////////////////////
